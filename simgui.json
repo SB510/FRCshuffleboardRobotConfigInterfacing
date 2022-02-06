@@ -1,0 +1,26 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/Ungrouped/DifferentialDrive[1]": "DifferentialDrive",
+      "/Shuffleboard/Drivebase/Tank Drive": "DifferentialDrive"
+    }
+  },
+  "NetworkTables": {
+    "Shuffleboard": {
+      "Configuration": {
+        "open": true
+      },
+      "Drivebase": {
+        "List Layout": {
+          "open": true
+        },
+        "Tank Drive": {
+          "open": true
+        },
+        "open": true
+      },
+      "open": true
+    }
+  }
+}
